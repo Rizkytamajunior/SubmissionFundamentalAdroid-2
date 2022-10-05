@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="search">Search User</string>
+    <string name="username">Username</string>
+    <string name="company">Company : %s</string>
+    <string name="location">Location : %s</string>
+    <string name="name">Name</string>
+    <string name="repository">Repository: %s</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="detail_name">Detail User</string>
+    <string name="listusergithub">List User Github :</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="uname">Username</string>
+    <string name="img_item">Item Photo</string>
+    <string name="follower">Follower Text</string>
+</resources>
